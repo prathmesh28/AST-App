@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "875546098431",
+    "project_id": "astapp-49b38",
+    "storage_bucket": "astapp-49b38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875546098431:android:7a147e56491d8d5cd8eaca",
+        "android_client_info": {
+          "package_name": "com.astapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875546098431-el2kosa2ui68co3l97t0cap00f3uldiq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.astapp",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "875546098431-pju9nuf1vfhns5b1ion6ftcdrcqumvhg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1jag9ccw6stbv46eX5IP9JvP2BwI4XY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875546098431-pju9nuf1vfhns5b1ion6ftcdrcqumvhg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
